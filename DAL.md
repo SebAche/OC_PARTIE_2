@@ -1,0 +1,3 @@
+Notez ici votre systeme préféré pour assurer la persistence des données. (SGBD, NO-SQL, ...)
+Argumentez votre choix ...
+
